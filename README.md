@@ -49,7 +49,7 @@ Download fpdf.php from www.fpdf.org
 
 Start Apache & MySQL from XAMPP.
 
-Visit http://localhost/php_user_system_styled
+Visit http://localhost/php_user_system
 .
 
 Credentials
