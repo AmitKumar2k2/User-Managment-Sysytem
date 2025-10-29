@@ -1,0 +1,20 @@
+/* Simple clean styling */
+body{font-family: Arial, Helvetica, sans-serif; background:#f4f6fb; margin:0; padding:0;}
+.container{max-width:1000px;margin:40px auto;background:#fff;padding:24px;border-radius:10px;box-shadow:0 6px 18px rgba(12,20,50,0.08);}
+header{display:flex;align-items:center;justify-content:space-between;margin-bottom:18px}
+h1{font-size:20px;color:#0f172a;margin:0;}
+.btn{display:inline-block;padding:8px 12px;border-radius:8px;text-decoration:none;border:none;cursor:pointer;}
+.btn-primary{background:#2563eb;color:#fff}
+.btn-danger{background:#ef4444;color:#fff}
+.btn-outline{background:transparent;border:1px solid #cbd5e1;color:#0f172a}
+.form-row{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:12px}
+.input, textarea, select{padding:10px;border-radius:8px;border:1px solid #e6eef8;flex:1}
+label{font-size:13px;color:#334155;margin-bottom:6px;display:block}
+.table{width:100%;border-collapse:collapse;margin-top:16px}
+.table th, .table td{padding:10px;border-bottom:1px solid #eef2ff;text-align:left}
+.table th{background:#f8fafc;font-weight:600}
+.avatar{width:48px;height:48px;border-radius:6px;object-fit:cover;border:1px solid #e2e8f0}
+.small{font-size:13px;color:#475569}
+.notice{background:#fff7ed;border:1px solid #ffedd5;padding:10px;border-radius:8px;color:#92400e;margin-bottom:12px}
+.actions{display:flex;gap:8px}
+.form-actions{display:flex;gap:8px;justify-content:flex-end;margin-top:8px}
